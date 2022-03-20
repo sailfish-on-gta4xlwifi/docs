@@ -23,6 +23,7 @@ Make sure to follow all steps carefully. Do NOT omit ANY steps!
 * Wi-Fi
 * Bluetooth keyboard and speaker
 * Camera
+* S-Pen works to press things
 
 #### Tested NOT Working
 * Audio
