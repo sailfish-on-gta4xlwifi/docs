@@ -30,3 +30,16 @@ Make sure to follow all steps carefully. Do NOT omit ANY steps!
 * Sensors
 
 Donations: [PayPal](https://www.paypal.com/donate/?business=YXF5TAF4A3H96&no_recurring=0&item_name=Donation&currency_code=USD) or [Liberapay](https://liberapay.com/HengYe/donate)
+
+Disclaimer
+```
+/*
+* Your warranty is now void.
+*
+* We are not responsible for bricked devices, dead SD cards,
+* thermonuclear war, or you getting fired because the alarm app failed. Please
+* do some research if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you point the finger at us for messing up your device, we will laugh at you.
+*/
+```
